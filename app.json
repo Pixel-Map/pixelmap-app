@@ -1,0 +1,12 @@
+{
+  "name": "PixelMap",
+  "displayName": "PixelMap",
+  "expo": {
+    "name": "PixelMap",
+    "slug": "PixelMap",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
