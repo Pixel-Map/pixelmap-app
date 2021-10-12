@@ -4,11 +4,18 @@ This is the repository for the Pixel Map App. It is a react-native app based on 
 
 ## Installation
 
-The first time one needs to run the following command to install the packages
+The first time one needs to run:
 
 ```
 yarn install
 ```
+
+For running it on iOS, one needs first to run:
+```
+cd ios && pod install
+```
+
+
 
 ## Running the app
 
