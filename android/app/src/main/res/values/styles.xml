@@ -9,4 +9,7 @@
     <item name="android:windowBackground">@drawable/splashscreen</item>
     <!-- Customize your splash screen theme here -->
   </style>
+  <style name="AppThemeWBackgroundG" parent="AppTheme">
+    <item name="android:windowBackground">@drawable/app_bg</item>
+  </style>
 </resources>
